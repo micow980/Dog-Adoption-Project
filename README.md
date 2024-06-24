@@ -82,7 +82,8 @@ Ensure your EC2 instance has the necessary IAM roles attached and has network ac
 
 ## Dashboard
 
-Dashboard created by Data Analyst Tammie Cheung posted to my own Tableau Account
+Dashboard created by Data Analyst Tammie Cheung posted to my own Tableau Account. Link to her LinkedIn 
+https://www.linkedin.com/in/tammie-cheung-a390592a8/
 
 ![image](https://github.com/micow980/Dog-Adoption-Project/assets/110073973/0a430ba5-3b6d-426e-9e97-381c6b2591a2)
 
