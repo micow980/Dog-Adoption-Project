@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 - AWS CLI configured with your credentials
 - Python 3.6 or higher installed
 - Boto3 and Psycopg2 Python libraries installed
-- An S3 bucket with your data file
+- An S3 bucket 
 - An Amazon Redshift cluster set up and accessible
 - An EC2 instance with appropriate IAM roles to access S3 and Redshift
 
@@ -56,7 +56,7 @@ Before you begin, ensure you have the following:
 
 ## Python Script
 
-The Python script is located in the `Adoption Project` folder and performs the following tasks:
+The Python script is located in the repo folder as port.py and performs the following tasks:
 
 1. **Upload data to AWS S3**: Take file from this repo and upload into S3.
 2. **Preprocess Data**: Filters, transforms, and cleans the data.
@@ -79,7 +79,7 @@ Ensure that you update the script with your specific AWS details such as bucket 
 
 3. **Run the script**:
     ```bash
-    python Script/port.py
+    python port.py
     ```
 Ensure your EC2 instance has the necessary IAM roles attached and has network access to both S3 and Redshift.
 
