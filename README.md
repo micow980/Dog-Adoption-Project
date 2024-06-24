@@ -78,5 +78,10 @@ Ensure that you update the script with your specific AWS details such as bucket 
     ```bash
     python Script/port.py
     ```
+## Dashboard
+
+![image](https://github.com/micow980/Dog-Adoption-Project/assets/110073973/0a430ba5-3b6d-426e-9e97-381c6b2591a2)
+
+https://public.tableau.com/views/Dashboard_17191973842400/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 Ensure your EC2 instance has the necessary IAM roles attached and has network access to both S3 and Redshift.
