@@ -16,6 +16,9 @@ This repository contains a Python script for processing data stored in an S3 buc
 
 This project demonstrates an end-to-end data processing pipeline using AWS services. The pipeline involves downloading raw data from an S3 bucket, preprocessing the data using a Python script on an EC2 instance, and loading the cleaned data into an Amazon Redshift table. Once the data is in Redshift, it can be used for analysis and visualization with tools like Tableau.
 
+![image](https://github.com/micow980/Dog-Adoption-Project/assets/110073973/3484d932-84a8-476e-b18f-c15652a71d87)
+
+
 ### Workflow Overview
 
 1. **AWS S3**: Stores raw data files. S3 is a scalable storage service that allows easy access and management of data.
@@ -82,11 +85,14 @@ Ensure your EC2 instance has the necessary IAM roles attached and has network ac
 
 ## Dashboard
 
-Dashboard created by Data Analyst Tammie Cheung posted to my own Tableau Account. Link to her LinkedIn 
+Dashboard created by Data Analyst Tammie Cheung posted to my own Tableau Account. 
+
+Link to her LinkedIn 
 https://www.linkedin.com/in/tammie-cheung-a390592a8/
 
 ![image](https://github.com/micow980/Dog-Adoption-Project/assets/110073973/0a430ba5-3b6d-426e-9e97-381c6b2591a2)
 
+Link to interactive Dashboard
 https://public.tableau.com/views/Dashboard_17191973842400/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
