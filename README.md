@@ -56,11 +56,11 @@ Before you begin, ensure you have the following:
 
 ## Python Script
 
-The Python script is located in the `Script` folder and performs the following tasks:
+The Python script is located in the `Adoption Project` folder and performs the following tasks:
 
-1. **Download from S3**: Fetches the CSV file from the specified S3 bucket.
+1. **Upload data to AWS S3**: Take file from this repo and upload into S3.
 2. **Preprocess Data**: Filters, transforms, and cleans the data.
-3. **Load into Redshift**: Inserts the cleaned data into an Amazon Redshift table.
+3. **Load into AWS Redshift**: Inserts the cleaned data into an Amazon Redshift table.
 
 Ensure that you update the script with your specific AWS details such as bucket name, Redshift cluster details, and table schema.
 
