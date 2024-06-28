@@ -12,7 +12,7 @@ redshift_host = 'redshift-dogproject.654654471738.us-east-2.redshift-serverless.
 redshift_port = 5439
 redshift_dbname = 'dev'
 redshift_user = 'admin'
-redshift_password = 'Mythreesons980!'
+redshift_password = 
 redshift_table = 'dog_project'
 
 # Create an S3 client
